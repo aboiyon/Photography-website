@@ -26,3 +26,11 @@ a:hover{
 a:visited{
     background-color: lightgrey;
 }
+#boldit{
+    font: 500;
+}
+div{
+    border: black solid 2px;
+    margin: 5px;
+    padding: 5px;
+}
