@@ -1,3 +1,7 @@
+h5{
+    border: 2px;
+    margin: 5px;
+}
 body{
     background-color: white;
     border: solid black 3px;
@@ -33,4 +37,5 @@ div{
     border: black solid 2px;
     margin: 5px;
     padding: 5px;
+    background-color: blanchedalmond;
 }
