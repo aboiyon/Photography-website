@@ -4,3 +4,9 @@ body{
 .intro{
     border: solid black 2px;
 }
+strong{
+    color: brown;
+}
+em{
+    color: cornflowerblue;
+}
