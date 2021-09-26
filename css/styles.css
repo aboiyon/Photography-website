@@ -3,12 +3,16 @@ body{
     border: solid black 3px;
     margin: 5%;
     padding: 5px;
+    font-style: normal;
+    font-family: sans-serif;
 }
 .intro{
     border: solid black 2px;
+    background-color: darkgrey;
+    color: white;
 }
 strong{
-    color: brown;
+    color: black;
 }
 em{
     color: cornflowerblue;
@@ -18,4 +22,7 @@ a:link{
 }
 a:hover{
     background-color: red;
+}
+a:visited{
+    background-color: lightgrey;
 }
