@@ -42,3 +42,8 @@ div{
 #imageit{
     margin: 30px;
 }
+.padit{
+    border: 2p solid black;
+    margin: 5px;
+    padding: 5px;
+}
